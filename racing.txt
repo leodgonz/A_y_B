@@ -1,1 +1,3 @@
-racing.txt
+de donde es el equipo?
+cual es su estadio?
+hola 
